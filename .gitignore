@@ -1,0 +1,17 @@
+
+# Ignore datasets and models
+datasets/
+models/
+final_dataset/
+saved_models/
+
+# Colab checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# MacOS & system files
+.DS_Store
+Thumbs.db
